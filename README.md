@@ -3,7 +3,7 @@
 An little example of how to consume a REST API implemented in NodeJS using 'restify' with AJAX calls.
 
 ## Backend/Middleware
-* [Restify](https://www.npmjs.com/package/restify) - REST API NdeJS library
+* [Restify](https://www.npmjs.com/package/restify) - REST API NodeJS library
 * [MySQL](https://www.npmjs.com/package/mysql) - Database connection
 
 ## Frontend
@@ -16,9 +16,9 @@ An little example of how to consume a REST API implemented in NodeJS using 'rest
 <li>Config the var 'con' in the middleware/index.js file with your database credentials</li>
 <li>
     On the terminal within middleware directory install the node dependencies 
-    ```
-    npm install
-    ```
+```
+npm install
+```
 </li>
 <li>
     On the terminal within middleware directory run the index.js file using
