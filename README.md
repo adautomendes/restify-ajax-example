@@ -2,6 +2,9 @@
 
 An little example of how to consume a REST API implemented in NodeJS using 'restify' with AJAX calls.
 
+## Dependencies
+A MySQL database installed.
+
 ## Backend/Middleware
 * [Restify](https://www.npmjs.com/package/restify) - REST API NodeJS library
 * [MySQL](https://www.npmjs.com/package/mysql) - Database connection
