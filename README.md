@@ -11,20 +11,14 @@ An little example of how to consume a REST API implemented in NodeJS using 'rest
 * [MaterializeCSS](https://materializecss.com/) - Stylizing HTML
 
 ## Deployment
-<ol>
-<li>Run 'ec021.sql' on MySQL database</li>
-<li>Config the var 'con' in the middleware/index.js file with your database credentials</li>
-<li>
-    On the terminal within middleware directory install the node dependencies 
+* Run 'ec021.sql' on MySQL database
+* Config the var 'con' in the middleware/index.js file with your database credentials
+* On the terminal within middleware directory install the node dependencies 
 ```
 npm install
 ```
-</li>
-<li>
-    On the terminal within middleware directory run the index.js file using
-    ```
-    node index.js
-    ```
-</li>
-<li>Open the file cards.html or list.html on frontend directory</li>
-</ol>
+* On the terminal within middleware directory run the index.js file using
+```
+node index.js
+```
+* Open the file cards.html or list.html on frontend directory
